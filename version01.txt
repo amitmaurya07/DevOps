@@ -1,4 +1,8 @@
 “This is the bug fix in development branch”
 "After bug fixing, this is the new feature with minor alterations"
+<<<<<<< HEAD
 "This is the advancement of the previous feature"
+"Added few more changes to make it more optimized."
 "Feature 2 is completed and ready for release"
+=======
+>>>>>>> faad87d (Feature 1.2 is added)
